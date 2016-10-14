@@ -1,0 +1,315 @@
+vendor_guid,outcome_group_vendor_guid,parent_outcome_group_vendor_guid,title,description,calculation_method,calculation_int,mastery_points,0,1
+,NSW Literacy Continuum,,NSW Literacy Continuum,NSW Literacy Continuum Outcomes,,,,,
+,Comprehension,NSW Literacy Continuum,Comprehension,,,,,,
+,Aspects of Writing,NSW Literacy Continuum,Aspects of Writing,,,,,,
+,Reading Texts,NSW Literacy Continuum,Reading Texts,,,,,,
+CRT1.1,Cluster 1 - Reading Texts,Reading Texts,CRT1.1,Recognises own name.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT1.2,Cluster 1 - Reading Texts,Reading Texts,CRT1.2,Engages in shared reading of familiar texts with repeated language patterns.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT1.3,Cluster 1 - Reading Texts,Reading Texts,CRT1.3,Spends time looking at books and other print material.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT1.4,Cluster 1 - Reading Texts,Reading Texts,CRT1.4,Tells a story based on pictures or names pictures.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT1.5,Cluster 1 - Reading Texts,Reading Texts,CRT1.5,"Attempts to read words in the environment, e.g. billboards, signs.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT10.1,Cluster 10 - Reading Texts,Reading Texts,CRT10.1,"Reads short novels with minimal illustration, unfamiliar content, settings and characters and challenging and unusual vocabulary.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT10.2,Cluster 10 - Reading Texts,Reading Texts,CRT10.2,Adjusts rate of reading to suit text complexity and reading purpose.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT10.3,Cluster 10 - Reading Texts,Reading Texts,CRT10.3,"Uses more sophisticated word identification strategies to maintain word and sentence level fluency and create meaning, e.g. use of homonym, syllabification, analogy.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT10.4,Cluster 10 - Reading Texts,Reading Texts,CRT10.4,"Uses topic knowledge, vocabulary knowledge and context to read unknown words when engaging with subject texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT10.5,Cluster 10 - Reading Texts,Reading Texts,CRT10.5,"Chooses a reading path appropriate to the text (literary, factual, electronic) and navigates multimodal texts appropriate to the purpose.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT11.1,Cluster 11 - Reading Texts,Reading Texts,CRT11.1,"Reads for sustained periods (20-30 minutes) and sustains understanding in longer texts over time, e.g. reading short novels over several days",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT11.2,Cluster 11 - Reading Texts,Reading Texts,CRT11.2,"Confidently engages with a wide range of authentic texts, e.g. newspapers, TV documentaries, websites and chooses reading pathways appropriate to the purpose for reading/viewing.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT11.3,Cluster 11 - Reading Texts,Reading Texts,CRT11.3,"Monitors reading for accuracy and meaning and adjusts reading when difficulties are encountered, e.g. adjusts speed, rereads and attends to most important information",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT11.4,Cluster 11 - Reading Texts,Reading Texts,CRT11.4,Manipulates multiple texts that include a variety of purposes and modes to locate information for a specific purpose.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT11.5,Cluster 11 - Reading Texts,Reading Texts,CRT11.5,"Uses text navigation skills such as skimming and scanning to efficiently locate specific information in literary, factual and electronic texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT12.1,Cluster 12 - Reading Texts,Reading Texts,CRT12.1,Reads increasingly longer novels and subject texts using a range of effective word identification strategies to maintain meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT12.2,Cluster 12 - Reading Texts,Reading Texts,CRT12.2,"Reads, views and uses a wide variety of literary and factual, print and electronic texts with increasing autonomy, e.g. extended novels and information texts, video documentaries, multimedia and performance texts, graphic material.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT12.3,Cluster 12 - Reading Texts,Reading Texts,CRT12.3,Reads more demanding subject texts that have increasing levels of technicality and abstraction.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT12.4,Cluster 12 - Reading Texts,Reading Texts,CRT12.4,Monitors reading for accuracy and meaning by selecting and using appropriate higher order word identification skills such as knowledge of word origins and analogy.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT12.5,Cluster 12 - Reading Texts,Reading Texts,CRT12.5,"Confidently adjusts the chosen reading/ viewing pathway to achieve the intended purpose in literary and factual, print, electronic and multimodal texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.1,Cluster 13 - Reading Texts,Reading Texts,CRT13.1,Reads for sustained periods (30+ minutes) and maintains meaning in longer texts or across a variety of texts on a single topic over time.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.2,Cluster 13 - Reading Texts,Reading Texts,CRT13.2,Adjusts reading rate appropriate to subject content and purpose.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.3,Cluster 13 - Reading Texts,Reading Texts,CRT13.3,Applies technical vocabulary and content knowledge to create meaning when reading subject texts of increasing abstraction.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.4,Cluster 13 - Reading Texts,Reading Texts,CRT13.4,Selects and reads texts in ways that best meet requirements of a task.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.5,Cluster 13 - Reading Texts,Reading Texts,CRT13.5,Uses multiple reading pathways in a range of complex texts to locate and assemble information.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.6,Cluster 13 - Reading Texts,Reading Texts,CRT13.6,Applies and further develops monitoring and selfcorrecting strategies in subject contexts,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT13.7,Cluster 13 - Reading Texts,Reading Texts,CRT13.7,Applies and further develops fluent and expressive reading skills in subject contexts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT14.1,Cluster 14 - Reading Texts,Reading Texts,CRT14.1,Reads a wide range of increasingly complex subject texts for sustained periods.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT14.2,Cluster 14 - Reading Texts,Reading Texts,CRT14.2,Selects suitable reading pathways to engage with new content.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT14.3,Cluster 14 - Reading Texts,Reading Texts,CRT14.3,Identifies multiple purposes for which texts are constructed.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT15.1,Cluster 14 - Reading Texts,Reading Texts,CRT15.1,Independently selects and reads an increasing volume and range of complex texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT15.2,Cluster 14 - Reading Texts,Reading Texts,CRT15.2,Strategically navigates texts with speed and efficiency,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT16.1,Cluster 14 - Reading Texts,Reading Texts,CRT16.1,Strategically navigates an extensive volume of texts for a complex task,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.1,Cluster 2 - Reading Texts,Reading Texts,CRT2.1,Reads one or two words in environmental print/texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.2,Cluster 2 - Reading Texts,Reading Texts,CRT2.2,Reads some words in a sentence correctly.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.3,Cluster 2 - Reading Texts,Reading Texts,CRT2.3,Holds a book the right way up.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.4,Cluster 2 - Reading Texts,Reading Texts,CRT2.4,Differentiates between writing and pictures.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.5,Cluster 2 - Reading Texts,Reading Texts,CRT2.5,"Points to words using one-to-one correspondence when ""reading"".",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.6,Cluster 2 - Reading Texts,Reading Texts,CRT2.6,"Reads some high frequency words correctly in simple, predictable texts, e.g. my, I.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT2.7,Cluster 2 - Reading Texts,Reading Texts,CRT2.7,Begins to read with fluency and rhythm when text and image placement are consistent,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT3.1,Cluster 3 - Reading Texts,Reading Texts,CRT3.1,Reads one or more sentences correctly in environmental print/texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT3.2,Cluster 3 - Reading Texts,Reading Texts,CRT3.2,Reads one or more sentences correctly in a simple book.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT3.3,Cluster 3 - Reading Texts,Reading Texts,CRT3.3,Uses context to predict meaning in texts and supplement decoding attempts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT3.4,Cluster 3 - Reading Texts,Reading Texts,CRT3.4,Reads words using known letter/sound relationships.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT3.5,Cluster 3 - Reading Texts,Reading Texts,CRT3.5,"Reads a number of ""easy""texts with an increasing number of high frequency words and illustrations that provide high support.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT3.6,Cluster 3 - Reading Texts,Reading Texts,CRT3.6,Begins to develop fluency and understanding by revisiting familiar texts,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT4.1,Cluster 4 - Reading Texts,Reading Texts,CRT4.1,Reads all or most of a more challenging story book,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT4.2,Cluster 4 - Reading Texts,Reading Texts,CRT4.2,Maintains fluency when reading texts with varied and irregular text and image placement.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT4.3,Cluster 4 - Reading Texts,Reading Texts,CRT4.3,Pauses or hesitates when meaning is disrupted when reading.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT4.4,Cluster 4 - Reading Texts,Reading Texts,CRT4.4,"Reads aloud with increasingly appropriate pitch, intonation and fluency (RR level 5-8).",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.1,Cluster 5 - Reading Texts,Reading Texts,CRT5.1,Reads texts with varied sentence patterns and several lines of text per page.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.2,Cluster 5 - Reading Texts,Reading Texts,CRT5.2,Demonstrates increased fluency by recognising and decoding words automatically when reading familiar texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.3,Cluster 5 - Reading Texts,Reading Texts,CRT5.3,Recognises when meaning is disrupted and attempts to self-correct when reading.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.4,Cluster 5 - Reading Texts,Reading Texts,CRT5.4,Reads fluently and accurately with attention to punctuation.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.5,Cluster 5 - Reading Texts,Reading Texts,CRT5.5,"Understands that pathways for reading literary and factual, print and screen texts can be navigated in different ways.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.6,Cluster 5 - Reading Texts,Reading Texts,CRT5.6,"Self-corrects when meaning is disrupted, e.g. by pausing, repeating words and phrases, rereading and reading on.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT5.7,Cluster 5 - Reading Texts,Reading Texts,CRT5.7,"Reads aloud with fluency and phrasing, adjusting pace, volume, pitch and pronunciation to enhance meaning and expression (RR level 16-18).",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT6.1,Cluster 6 - Reading Texts,Reading Texts,CRT6.1,"Understands text features such as illustrations, diagrams, tables, maps and graphs to enhance meaning.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT6.2,Cluster 6 - Reading Texts,Reading Texts,CRT6.2,"Automatically integrates a range of information, e.g. meaning, grammar and letter/sound relationships to read in a phrased and fluent way.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT6.3,Cluster 6 - Reading Texts,Reading Texts,CRT6.3,"Knows that literary, factual and screen texts need to be ""read""in differing ways.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT6.4,Cluster 6 - Reading Texts,Reading Texts,CRT6.4,Responds to punctuation and adjusts expression to enhance meaning when reading aloud.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT7.1,Cluster 7 - Reading Texts,Reading Texts,CRT7.1,Reads increasingly complex texts with less familiar content and vocabulary and more extended descriptions.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT7.2,Cluster 7 - Reading Texts,Reading Texts,CRT7.2,Engages with both literary and factual texts of increasing length and difficulty for longer periods of time (at least 10 minutes).,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT7.3,Cluster 7 - Reading Texts,Reading Texts,CRT7.3,Reads texts in different ways to meet a range of reading purposes.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT7.4,Cluster 7 - Reading Texts,Reading Texts,CRT7.4,Independently monitors own reading by using a variety of self-correction strategies to maintain meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT8.1,Cluster 8 - Reading Texts,Reading Texts,CRT8.1,"Reads for sustained periods (15-20 minutes) and sustains understanding in longer texts over time, e.g. reading short novels over several days.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT8.2,Cluster 8 - Reading Texts,Reading Texts,CRT8.2,"Uses visual representations, e.g. photographs, tables, charts to enhance meaning when reading factual texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT8.3,Cluster 8 - Reading Texts,Reading Texts,CRT8.3,Selects and uses the most effective word identification strategy to maintain fluency and meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT8.4,Cluster 8 - Reading Texts,Reading Texts,CRT8.4,Demonstrates an awareness of how to use skimming/scanning and text features such as subheadings to locate specific information.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT8.5,Cluster 8 - Reading Texts,Reading Texts,CRT8.5,Uses screen navigation features when reading and viewing Internet texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT9.1,Cluster 9 - Reading Texts,Reading Texts,CRT9.1,"Reads for sustained periods (15-20 minutes) and sustains understanding in longer texts over time, e.g. reading short novels over several days.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT9.2,Cluster 9 - Reading Texts,Reading Texts,CRT9.2,"Uses visual representations, e.g. photographs, tables, charts to enhance meaning when reading factual texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CRT9.3,Cluster 9 - Reading Texts,Reading Texts,CRT9.3,Selects and uses the most effective word identification strategy to maintain fluency and meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT9.4,Cluster 9 - Reading Texts,Reading Texts,CRT9.4,Demonstrates an awareness of how to use skimming/scanning and text features such as subheadings to locate specific information.,decaying_average,65,1,Not Yet Achieved,Achieved
+CRT9.5,Cluster 9 - Reading Texts,Reading Texts,CRT9.5,Uses screen navigation features when reading and viewing Internet texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW1.1,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW1.1,Engages in writing-like behaviour using scribble or strings of letters.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW1.2,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW1.2,"Attempts to write own name, e.g. one or two letters, scribble.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW1.3,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW1.3,Holds a pencil or crayon effectively to draw and scribble.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.1,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.1,"Draws ideas from personal experiences, other texts and research to create imaginative, informative and persuasive texts for different audiences.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.2,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.2,Shows awareness of the need to justify opinions with supporting evidence.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.3,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.3,Locates resources and accesses information when planning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.4,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.4,"Rereads and revises text to check and improve meaning, deleting unnecessary information or adding new information.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.5,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.5,"Creates meaningful sentences using a variety of sentence beginnings, including adverbial and adjectival clauses to create complex sentences.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.6,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.6,Uses sentence and simple punctuation correctly.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.7,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.7,"Uses morphemic, visual, phonic knowledge and knowledge of prefixes and suffixes to spell and edit words.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.8,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.8,"Uses grammatical features such as pronouns, conjunctions and connectives to accurately link ideas and information.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW10.9,Cluster 10 - Aspects of Writing,Aspects of Writing,CAW10.9,Consolidates handwriting that is consistent in form.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.1,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.1,"Writes coherent, structured texts for a range of purposes and contexts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.10,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.10,"Uses word processing programs confidently and accurately, integrating various functions.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.11,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.11,Plans and designs more complex multimodal texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.2,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.2,"Deliberately structures language in a way that creates more cohesive imaginative, informative and persuasive texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.3,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.3,Shows awareness of accurately acknowledging sources in relevant texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.4,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.4,Refines writing in response to feedback.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.5,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.5,"Selects appropriate language for purpose, e.g. descriptive, persuasive, topic, technical, evaluative, emotive, and colloquial.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.6,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.6,Uses topic sentences and appropriately organises main and subordinate ideas.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.7,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.7,Experiments with using complex punctuation to engage the reader and achieve purpose.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.8,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.8,"Applies knowledge of generalisations, meanings of base words and word parts (prefixes and suffixes) to spell new words",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW11.9,Cluster 11 - Aspects of Writing,Aspects of Writing,CAW11.9,"Writes fluently with appropriate size, slope and spacing.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.1,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.1,Writes sustained texts for a wide range of purposes.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.2,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.2,"Makes choices about the type and form of texts, including combinations of forms and types, to suit purpose and audience.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.3,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.3,"Creates well planned, extended texts that include more complex and detailed subject matter and language features such as nominalisation.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.4,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.4,"Critically reflects on effectiveness of own/ others""writing and seeks and responds to feedback from others.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.5,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.5,"Selects some sophisticated and subtle language features, literary devices (e.g. irony, humour) and grammatical features (e.g. modality) to engage and influence an audience.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.6,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.6,Makes sentence level choices (e.g. short sentences to build tension; complex sentences to add detail) using a variety of sentence beginnings and dependent clauses.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.7,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.7,"Uses a range of punctuation to enhance meaning and clarity, including the use of brackets to enclose additional information, quotation marks and commas to indicate clauses.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.8,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.8,"Integrates a range of spelling strategies and conventions to accurately spell most words, including words of many syllables.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW12.9,Cluster 12 - Aspects of Writing,Aspects of Writing,CAW12.9,"Uses visuals to extend or clarify meaning, selects from a range of media and experiments creatively with the production of multimodal texts for audience impact.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.1,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.1,"Creates well structured and sequenced texts for imaginative, informative and persuasive purposes.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.10,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.10,"Uses a legible, fluent handwriting style",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.2,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.2,Chooses aspects and combinations of texts to suit particular purposes and audiences.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.3,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.3,Creates and develops ideas to explore a concept or theme.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.4,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.4,Uses paragraphing to structure information and partition events and ideas.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.5,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.5,Intentionally constructs a variety of sentence types including complex sentences for effect.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.6,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.6,"Creates texts with appropriate design, layout and graphics.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.7,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.7,Self-regulates spelling and applies spelling knowledge and strategies to spell complex and subject specific vocabulary.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.8,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.8,Uses correct and appropriate punctuation to support meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW13.9,Cluster 13 - Aspects of Writing,Aspects of Writing,CAW13.9,Uses a range of editing strategies to improve clarity and consistency of style.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.1,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.1,"Creates texts that incorporate substantial, elaborated ideas and themes.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.10,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.10,Correctly references resources.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.2,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.2,"Uses, monitors and reflects on planning strategies to enhance the effectiveness of a text.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.3,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.3,"Tailors writing in response to audience, purpose and context.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.4,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.4,Identifies and explores different perspectives and points of view.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.5,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.5,Demonstrates coherency by using a variety of devices that support readers to link ideas and establish relationships.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.6,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.6,Selects sophisticated grammatical structures to enhance quality of writing.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.7,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.7,Creates and manipulates texts that integrate different modes.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.8,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.8,Makes deliberate language choices for greater precision and technicality.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW14.9,Cluster 14 - Aspects of Writing,Aspects of Writing,CAW14.9,Uses a range of complex punctuation to support clarity and precision of meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.1,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.1,"Creates a range of coherent texts for imaginative, informative and persuasive purposes.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.2,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.2,Explores challenging ideas and ethical dilemmas.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.3,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.3,Uses sophisticated grammatical features to express complex ideas and concepts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.4,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.4,"Constructs texts that have a variety of well developed, effective sentences for clarity and coherence",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.5,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.5,Manipulates language features and structures to suit context.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.6,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.6,Applies knowledge of word origins to spell unknown words.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.7,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.7,Uses complex punctuation strategically for effect.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW15.8,Cluster 15 - Aspects of Writing,Aspects of Writing,CAW15.8,"Efficiently revises, edits and proofreads texts to enhance accuracy and quality",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW16.1,Cluster 16 - Aspects of Writing,Aspects of Writing,CAW16.1,"Creates sustained texts that develop complex themes, concepts and ideas.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW16.2,Cluster 16 - Aspects of Writing,Aspects of Writing,CAW16.2,Adapts and innovates on familiar text forms to create distinctive texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW16.3,Cluster 16 - Aspects of Writing,Aspects of Writing,CAW16.3,Constructs considered arguments that explore and analyse a range of different perspectives on complex and challenging topics,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW16.4,Cluster 16 - Aspects of Writing,Aspects of Writing,CAW16.4,Strategically selects from a range of resources to create multimodal texts that incorporate sophisticated design features.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW16.5,Cluster 16 - Aspects of Writing,Aspects of Writing,CAW16.5,Demonstrates control of sophisticated language features and structures.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW16.6,Cluster 16 - Aspects of Writing,Aspects of Writing,CAW16.6,Cites references using conventions appropriate for purpose.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.1,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.1,Clear attempt to write name (may not be correct spelling).,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.2,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.2,Writes at least one recognisable word (may not be spelled correctly) related to a story book read to them or a picture they have drawn.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.3,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.3,"""Writes""from left to right and leaves spaces between words.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.4,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.4,Attempts to form some letters,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.5,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.5,"Talks about intended ""writing""before attempting to ""write"".",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.6,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.6,Talks about own writing and drawing.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW2.7,Cluster 2 - Aspects of Writing,Aspects of Writing,CAW2.7,Experiments with computer mouse and keyboard.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.1,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.1,Writes first name correctly.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.2,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.2,"Writes a recognisable sentence, words may not be spelled correctly, some evidence of sentence punctuation",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.3,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.3,"Draws on both personal and imaginary experiences to ""write""texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.4,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.4,"Shows understanding that their ""writing""conveys meaning.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.5,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.5,Vocalises words to approximate spelling.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.6,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.6,"Begins to develop a simple writing vocabulary, including some high frequency words and words of personal significance.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.7,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.7,Uses simple noun groups and adverbial phrases when writing.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.8,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.8,"Begins to demonstrate understanding of pencil grip, paper placement and posture.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW3.9,Cluster 3 - Aspects of Writing,Aspects of Writing,CAW3.9,Experiments with creating simple texts on the computer.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.1,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.1,"Writes one or more simple sentences; some words spelled correctly, most letters formed correctly and evidence of sentence punctuation",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.10,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.10,"With support, uses computer software programs to create simple texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.2,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.2,Writes to express one or two ideas.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.3,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.3,Reads own text aloud to check that it makes sense to others.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.4,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.4,Talks about the audience and purpose for texts being written.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.5,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.5,Attempts to spell high frequency words that have been taught.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.6,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.6,Produces some compound sentences using conjunctions to join ideas.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.7,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.7,Uses simple pronoun references.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.8,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.8,Forms most letters correctly,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW4.9,Cluster 4 - Aspects of Writing,Aspects of Writing,CAW4.9,"Uses correct pencil grip, paper placement, posture and knows how to self-correct.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.1,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.1,Selects vocabulary and phrases modelled by the teacher during whole class planning to construct own text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.2,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.2,"Engages in the joint production of texts using a variety of mediums, e.g. podcasts, digital stories",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.3,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.3,Draws on personal experiences and topic knowledge to create texts of about 4-5 sentences for a range of purposes.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.4,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.4,Rereads own text to clarify meaning and make some changes to the text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.5,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.5,Uses sentence punctuation and some simple punctuation.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.6,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.6,Accurately writes simple and compound sentences.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.7,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.7,Uses a range of adjectives to provide more information about nouns.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW5.8,Cluster 5 - Aspects of Writing,Aspects of Writing,CAW5.8,Writes lower/upper case letters of consistent size and formation in NSW Foundation Style.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.1,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.1,"Creates longer texts supported by visual information, e.g. diagrams, maps, graphs on familiar topics for known audiences.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.2,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.2,Begins to use text features such as headings and paragraphs to organise information,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.3,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.3,"Demonstrates elementary proof-reading and editing, e.g. circles a word that does not look right.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.4,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.4,Accurately spells an increasing number of high frequency and topic words.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.5,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.5,"Uses simple punctuation, e.g. full stops, exclamation marks and question marks.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.6,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.6,Writes a sequence of thoughts and ideas.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.7,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.7,Experiments with using some complex sentences to enhance writing.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.8,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.8,"Uses a refined pencil grip, correct posture and paper placement to write more fluently and legibly.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW6.9,Cluster 6 - Aspects of Writing,Aspects of Writing,CAW6.9,Uses computer functions to edit texts,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.1,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.1,"Plans texts by making notes, drawing diagrams, planning sequence of events or information, etc.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.2,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.2,States purpose and intended audience before creating texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.3,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.3,Spells words with regular spelling patterns correctly and makes plausible attempts at words with irregular spelling patterns.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.4,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.4,Applies spelling generalisations when writing.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.5,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.5,Uses contraction apostrophes and capitals for proper nouns as well as other simple punctuation.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.6,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.6,"Writes short, connected and sequenced texts to narrate events or convey information.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.7,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.7,Includes different types of verbs using appropriate tense and demonstrates subject-verb agreement.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW7.8,Cluster 7 - Aspects of Writing,Aspects of Writing,CAW7.8,Uses a computer to produce texts with graphics.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.1,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.1,Creates longer texts (at least one page) that achieve the intended purpose and are appropriate for less familiar audiences.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.2,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.2,Experiments with producing/publishing texts using an increasing range of mediums and modes.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.3,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.3,"Writing shows evidence of revision, editing and proof-reading.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.4,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.4,"Writes for a wider range of purposes, including to explain and to express an opinion.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.5,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.5,Demonstrates a range of spelling strategies to spell unfamiliar words.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.6,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.6,Uses quotation marks for direct speech and commas in lists.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.7,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.7,Produces a range of grammatically accurate sentences.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW8.8,Cluster 8 - Aspects of Writing,Aspects of Writing,CAW8.8,Fluently writes letters of consistent size and formation in NSW Foundation Style.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.1,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.1,"Constructs well-sequenced imaginative, informative and persuasive texts using language appropriate to purpose and audience",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.2,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.2,"Plans and organises ideas using headings, graphic organisers, questions and mind maps.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.3,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.3,"Rereads texts during and after writing to check accuracy, consistency of meaning and fitness for purpose.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.4,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.4,Structures texts using paragraphs composed of logically grouped sentences that deal with a particular aspect of a topic.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.5,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.5,Uses a variety of spelling strategies to spell high frequency words correctly.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.6,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.6,"Uses simple word processing functions such as spell check, grammar check.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.7,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.7,"Chooses verbs, adverbials, nouns and adjectivals to express specific ideas and details.",decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.8,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.8,Uses joined letters of consistent size.,decaying_average,65,1,Not Yet Achieved,Achieved
+CAW9.9,Cluster 9 - Aspects of Writing,Aspects of Writing,CAW9.9,Experiments with creating simple multimodal texts using digital text creation programs,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP1.1,Cluster 1 - Comprehension,Comprehension,CCOMP1.1,Responds to stories read aloud/viewed by connecting information and events to personal experiences.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP1.2,Cluster 1 - Comprehension,Comprehension,CCOMP1.2,Retells some events in familiar stories.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.1,Cluster 10 - Comprehension,Comprehension,CCOMP10.1,"Interprets text by inferring connections, causes and consequences during reading.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.2,Cluster 10 - Comprehension,Comprehension,CCOMP10.2,Responds to and interprets texts by discussing the differences between literal and inferred meanings.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.3,Cluster 10 - Comprehension,Comprehension,CCOMP10.3,Interprets the meaning of a text by seeking further information in other sections of a text or in different texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.4,Cluster 10 - Comprehension,Comprehension,CCOMP10.4,Identifies ways texts present different perspectives.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.5,Cluster 10 - Comprehension,Comprehension,CCOMP10.5,Evaluates text accuracy and credibility by comparing texts on a similar topic.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.6,Cluster 10 - Comprehension,Comprehension,CCOMP10.6,Analyses and evaluates the relative importance of key ideas and information in a text to construct an overview.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.7,Cluster 10 - Comprehension,Comprehension,CCOMP10.7,Responds to and analyses texts by discussing the ways language structures and features shape meaning.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP10.8,Cluster 10 - Comprehension,Comprehension,CCOMP10.8,Responds to and interprets texts by integrating sources of information in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.1,Cluster 11 - Comprehension,Comprehension,CCOMP11.1,Analyses and evaluates the ways that inference is used in a text to build understanding.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.2,Cluster 11 - Comprehension,Comprehension,CCOMP11.2,Re-examines sections of texts for evidence to support interpretations and opinions.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.3,Cluster 11 - Comprehension,Comprehension,CCOMP11.3,Evaluates a personal interpretation of a text by critically re-examining evidence within the text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.4,Cluster 11 - Comprehension,Comprehension,CCOMP11.4,Responds to themes and issues evident in texts that present different perspectives on a given topic or different points of view in a text,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.5,Cluster 11 - Comprehension,Comprehension,CCOMP11.5,"Analyses texts to explain and compare how audience, purpose and context influence texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.6,Cluster 11 - Comprehension,Comprehension,CCOMP11.6,Critically analyses and interprets a text to create a summary that demonstrates an understanding of the different views and values represented.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.7,Cluster 11 - Comprehension,Comprehension,CCOMP11.7,Analyses and responds to language and grammatical techniques used to influence an audience.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP11.8,Cluster 11 - Comprehension,Comprehension,CCOMP11.8,Analyses and compares how information and ideas are presented in a range of texts on the one topic.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.1,Cluster 12 - Comprehension,Comprehension,CCOMP12.1,Interprets and critically analyses texts by responding to inferred meaning within a text and justifying interpretations using evidence.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.2,Cluster 12 - Comprehension,Comprehension,CCOMP12.2,"Reinterprets ideas and issues by creating innovative personal responses to ideas and issues in literary texts through oral, dramatic, written and multimodal presentations.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.3,Cluster 12 - Comprehension,Comprehension,CCOMP12.3,"Critically analyses a wide range of imaginative, informative and persuasive texts in different forms to compare how ideas are presented.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.4,Cluster 12 - Comprehension,Comprehension,CCOMP12.4,Explains how texts can be interpreted from a variety of perspectives by discussing the ways that different views and values are presented.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.5,Cluster 12 - Comprehension,Comprehension,CCOMP12.5,Interprets texts by identifying and discussing multiple purposes within the same te,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.6,Cluster 12 - Comprehension,Comprehension,CCOMP12.6,Interprets and analyses several different texts on one topic to present a summary of information and ideas that show an understanding of the topic.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.7,Cluster 12 - Comprehension,Comprehension,CCOMP12.7,Analyses texts to compare how language structures and features are used to position readers and viewers.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP12.8,Cluster 12 - Comprehension,Comprehension,CCOMP12.8,Analyses and evaluates how written information and visual images shape meaning by comparing texts on the same topic.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.1,Cluster 13 - Comprehension,Comprehension,CCOMP13.1,"Applies comprehension strategies and skills including predicting, visualising, summarising, monitoring, questioning and making connections to make meaning in subject contexts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.10,Cluster 13 - Comprehension,Comprehension,CCOMP13.10,Analyses and evaluates the impact of visual images on the meaning of texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.11,Cluster 13 - Comprehension,Comprehension,CCOMP13.11,Locates and synthesises information to draw conclusions from a variety of sources.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.2,Cluster 13 - Comprehension,Comprehension,CCOMP13.2,"Explores, analyses and responds to ideas in imaginative, informative and persuasive texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.3,Cluster 13 - Comprehension,Comprehension,CCOMP13.3,Judges the value or effectiveness of texts according to their purpose and subject matter.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.4,Cluster 13 - Comprehension,Comprehension,CCOMP13.4,"Interprets and responds to points of view in texts with an awareness of underlying social, cultural and/or historical values.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.5,Cluster 13 - Comprehension,Comprehension,CCOMP13.5,Identifies different interpretations of and perspectives in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.6,Cluster 13 - Comprehension,Comprehension,CCOMP13.6,"Analyses and evaluates how texts are shaped by purpose, audience and context.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.7,Cluster 13 - Comprehension,Comprehension,CCOMP13.7,"Identifies an author""s point of view with textual evidence.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.8,Cluster 13 - Comprehension,Comprehension,CCOMP13.8,Draws on knowledge of familiar types of text relevant to subjects to facilitate understanding of new texts,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP13.9,Cluster 13 - Comprehension,Comprehension,CCOMP13.9,"Identifies and infers the meaning of imagery and symbolism in spoken, written, visual and multimodal texts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.1,Cluster 14 - Comprehension,Comprehension,CCOMP14.1,Consolidates an increasing repertoire of comprehension strategies.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.10,Cluster 14 - Comprehension,Comprehension,CCOMP14.10,Evaluates the credibility and reliability of textual sources,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.2,Cluster 14 - Comprehension,Comprehension,CCOMP14.2,Draws on widening personal and textual experience and knowledge to make meaning of texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.3,Cluster 14 - Comprehension,Comprehension,CCOMP14.3,Interprets texts that present challenging ideas and issues.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.4,Cluster 14 - Comprehension,Comprehension,CCOMP14.4,"Makes bridging inferences by linking pronouns, synonyms and other cohesive devices to clarify and build meaning.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.5,Cluster 14 - Comprehension,Comprehension,CCOMP14.5,"Compares own opinions and interpretations of texts with others""and justifies position with textual evidence.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.6,Cluster 14 - Comprehension,Comprehension,CCOMP14.6,Compares and contrasts different values and opinions presented on similar content.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.7,Cluster 14 - Comprehension,Comprehension,CCOMP14.7,Identifies ways in which authors position the audience to accept particular views and perspectives.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.8,Cluster 14 - Comprehension,Comprehension,CCOMP14.8,"Identifies and evaluates ways in which authors use language, structures and textual features to achieve particular purposes.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP14.9,Cluster 14 - Comprehension,Comprehension,CCOMP14.9,"Identifies assumptions, bias and stereotyping in texts",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.1,Cluster 15 - Comprehension,Comprehension,CCOMP15.1,"Recognises, articulates and reflects on effectiveness of strategies used to enhance comprehension.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.10,Cluster 15 - Comprehension,Comprehension,CCOMP15.10,Identifies ambiguities and conflicting messages in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.11,Cluster 15 - Comprehension,Comprehension,CCOMP15.11,Critically compares aspects and qualities of texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.2,Cluster 15 - Comprehension,Comprehension,CCOMP15.2,Makes reasoned inferences based on implicit information (including causal and temporal relationships).,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.3,Cluster 15 - Comprehension,Comprehension,CCOMP15.3,Explains how and why alternative interpretations of texts are developed by particular groups of people,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.4,Cluster 15 - Comprehension,Comprehension,CCOMP15.4,Reconsiders the meaning of texts when exposed to alternative interpretations.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.5,Cluster 15 - Comprehension,Comprehension,CCOMP15.5,"Critically evaluates the ways in which authors use and integrate language, structures and textual features to achieve particular purposes.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.6,Cluster 15 - Comprehension,Comprehension,CCOMP15.6,"Evaluates information from a variety of sources for credibility, authenticity and usefulness",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.7,Cluster 15 - Comprehension,Comprehension,CCOMP15.7,"Uses textual evidence to explain how the audience is positioned by particular representations of people, events, data, ideas or issues.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.8,Cluster 15 - Comprehension,Comprehension,CCOMP15.8,Questions and challenges information and assumptions in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP15.9,Cluster 15 - Comprehension,Comprehension,CCOMP15.9,Critically analyses texts for different perspectives and bias,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP16.1,Cluster 16 - Comprehension,Comprehension,CCOMP16.1,Examines different perspectives on complex issues within and between texts,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP16.2,Cluster 16 - Comprehension,Comprehension,CCOMP16.2,"Explains how interpretations of texts are shaped by social, cultural and/or historical contexts.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP16.3,Cluster 16 - Comprehension,Comprehension,CCOMP16.3,Explores and examines alternative interpretations of texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP2.1,Cluster 2 - Comprehension,Comprehension,CCOMP2.1,Gives a sequenced retell of a story when prompted.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP2.2,Cluster 2 - Comprehension,Comprehension,CCOMP2.2,Recalls some details from illustrations in a story book.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP2.3,Cluster 2 - Comprehension,Comprehension,CCOMP2.3,Predicts a plausible next event in a story.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP2.4,Cluster 2 - Comprehension,Comprehension,CCOMP2.4,Is beginning to analyse and evaluate stories read and viewed by providing and justifying a personal opinion,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP2.5,Cluster 2 - Comprehension,Comprehension,CCOMP2.5,Talks about information in factual texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP3.1,Cluster 3 - Comprehension,Comprehension,CCOMP3.1,Begins to understand inferred meaning,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP3.2,Cluster 3 - Comprehension,Comprehension,CCOMP3.2,"Gives an unprompted sequenced retell of a story that includes the beginning, middle and end.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP3.3,Cluster 3 - Comprehension,Comprehension,CCOMP3.3,Recalls many details from illustrations in a story book.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP3.4,Cluster 3 - Comprehension,Comprehension,CCOMP3.4,Builds meaning in factual texts by using illustrations.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP4.1,Cluster 4 - Comprehension,Comprehension,CCOMP4.1,Interprets meaning by answering an inferential question correctly.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP4.2,Cluster 4 - Comprehension,Comprehension,CCOMP4.2,Responds to overall meaning in literary and factual texts by talking about the central themes.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP4.3,Cluster 4 - Comprehension,Comprehension,CCOMP4.3,"Constructs meaning from texts by making connections between print, illustrations and diagrams.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP4.4,Cluster 4 - Comprehension,Comprehension,CCOMP4.4,"Analyses and evaluates a character""s actions or events in a story through discussion.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP4.5,Cluster 4 - Comprehension,Comprehension,CCOMP4.5,Builds understandings of a topic by identifying key facts in texts in print and on screen.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP5.1,Cluster 5 - Comprehension,Comprehension,CCOMP5.1,"Responds to questions about a character""s actions, qualities, characteristics by expressing an opinion about the character",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP5.2,Cluster 5 - Comprehension,Comprehension,CCOMP5.2,Builds understanding by interpreting and discussing inferred meanings.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP5.3,Cluster 5 - Comprehension,Comprehension,CCOMP5.3,"Interprets information in factual texts, e.g. using contents page and screen icons to locate specific information.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP6.1,Cluster 6 - Comprehension,Comprehension,CCOMP6.1,"Retells and responds to incidents from a story book or film with attention to plot elements such as setting, character, conflict and resolution.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP6.2,Cluster 6 - Comprehension,Comprehension,CCOMP6.2,Builds understanding of how media texts can be interpreted,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP6.3,Cluster 6 - Comprehension,Comprehension,CCOMP6.3,"Shows awareness that information about one topic can be sought from a number of sources, e.g. graphs, posters, reference texts, websites.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP6.4,Cluster 6 - Comprehension,Comprehension,CCOMP6.4,"Analyses and evaluates a character""s actions/motives in a story",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP7.1,Cluster 7 - Comprehension,Comprehension,CCOMP7.1,Responds to texts by referring to prior experiences.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP7.2,Cluster 7 - Comprehension,Comprehension,CCOMP7.2,Responds to and analyses a text by discussing a point of view presented in the text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP7.3,Cluster 7 - Comprehension,Comprehension,CCOMP7.3,Analyses and evaluates how visual images support print to create meaning in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP7.4,Cluster 7 - Comprehension,Comprehension,CCOMP7.4,Interprets and responds to texts by skimming and scanning to confirm predictions and answer questions posed by self and others while reading.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.1,Cluster 8 - Comprehension,Comprehension,CCOMP8.1,Refers to prior knowledge and experiences to build understanding of a text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.2,Cluster 8 - Comprehension,Comprehension,CCOMP8.2,Justifies predictions about sections of a text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.3,Cluster 8 - Comprehension,Comprehension,CCOMP8.3,"Builds understanding of a text by using knowledge of text organisation and features, e.g. referring to headings and sub-headings to locate information.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.4,Cluster 8 - Comprehension,Comprehension,CCOMP8.4,Draws conclusions by using clues in a text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.5,Cluster 8 - Comprehension,Comprehension,CCOMP8.5,Identifies more than one perspective or point of view when represented in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.6,Cluster 8 - Comprehension,Comprehension,CCOMP8.6,Articulates the main idea and provides a synthesised retell that captures key events in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP8.7,Cluster 8 - Comprehension,Comprehension,CCOMP8.7,Creates mental images to capture ideas in texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.1,Cluster 9 - Comprehension,Comprehension,CCOMP9.1,Builds understanding during reading by discussing possible consequences of actions and events.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.2,Cluster 9 - Comprehension,Comprehension,CCOMP9.2,"Interprets texts by recognising and discussing the difference between literal and inferred meaning in relation to information, characteristics, events.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.3,Cluster 9 - Comprehension,Comprehension,CCOMP9.3,Builds understanding about the meaning of a text by actively seeking information from different parts of a text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.4,Cluster 9 - Comprehension,Comprehension,CCOMP9.4,Shows an awareness through discussion that texts can present different perspectives.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.5,Cluster 9 - Comprehension,Comprehension,CCOMP9.5,Analyses the ways ideas and information are presented by making comparisons between texts.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.6,Cluster 9 - Comprehension,Comprehension,CCOMP9.6,Identifies and interprets main ideas and important information in a text to provide an accurate retell of a text.,decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.7,Cluster 9 - Comprehension,Comprehension,CCOMP9.7,"Analyses a text by discussing visual, aural and written techniques used in the text.",decaying_average,65,1,Not Yet Achieved,Achieved
+CCOMP9.8,Cluster 9 - Comprehension,Comprehension,CCOMP9.8,"Builds understanding about the meaning of a text by identifying and discussing text organisation and features, e.g. cohesive links.",decaying_average,65,1,Not Yet Achieved,Achieved
