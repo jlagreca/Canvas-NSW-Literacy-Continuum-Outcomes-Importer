@@ -251,5 +251,4 @@ if __name__ == '__main__':
     cache.close()
 
 #python outcomes_importer.py --outcomesfile /path/to/file.csv --domain demo.instructure.com --token "token-goes-here"
-#python literacy.py --outcomesfile literacy_continuum.csv --domain callaghan.instructure.com --token 17~DZEsLtLO5S338GxG7poCZwcu9JG5xPQBEBLaVkt7aEbVYvSJTYprG0TltG9VEfA8
 #!/usr/bin/env python
